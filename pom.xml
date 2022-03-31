@@ -43,7 +43,7 @@
 		<org.eclipse.sisu.plexus.version>0.3.4</org.eclipse.sisu.plexus.version>
 		
 		<!-- org.springframework.boot -->
-		<spring-boot-starter-web.version>2.3.1.RELEASE</spring-boot-starter-web.version>
+		<spring-boot-starter-web.version>2.5.12</spring-boot-starter-web.version>
 	
 	</properties>
 	
