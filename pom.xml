@@ -24,7 +24,7 @@
 		<!-- org.apache.maven -->
 		
 		<!-- https://mvnrepository.com/artifact/org.apache.maven/maven-core -->
-		<maven-core.version>3.6.3</maven-core.version>
+		<maven-core.version>3.8.1</maven-core.version>
 	
 		<!-- https://mvnrepository.com/artifact/org.apache.maven/maven-plugin-api -->
 		<maven-plugin-api.version>3.6.3</maven-plugin-api.version>
